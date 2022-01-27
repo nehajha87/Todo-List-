@@ -7,4 +7,4 @@ This is a todo list appliaction made with the help of javascript like a normal t
 4) You can mark also whether it is completed or not.
 
 
-This application is hosted on this is the url of the application:-
+This application is hosted on heroku this is the url of the application:-  https://make-your-todo-list.herokuapp.com/
